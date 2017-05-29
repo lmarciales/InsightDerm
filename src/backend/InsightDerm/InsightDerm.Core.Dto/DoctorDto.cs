@@ -1,5 +1,6 @@
 ﻿using System;
-namespace InsightDerm.Core.Dto
+
+namespace InsightDerm.Core.Data.Domain.Model
 {
     public class DoctorDto
     {
